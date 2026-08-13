@@ -171,6 +171,8 @@ img {
     font-size: 1.5rem;
 
     cursor: pointer;
+    
+    margin-left: auto;
 
 }
 
@@ -1787,9 +1789,13 @@ footer {
         padding: 0 30px;
     }
 
+    nav {
+        margin-left: auto;
+    }
 
     .menu-toggle {
         display: block;
+        margin-left: 15px;
     }
 
 
